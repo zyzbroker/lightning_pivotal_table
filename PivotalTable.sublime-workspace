@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"delete",
+				"deleteAttachments"
+			],
+			[
+				"stra",
+				"startTime"
+			],
+			[
+				"lun",
+				"lunch"
+			],
+			[
+				"star",
+				"startTime"
+			],
+			[
+				"brea",
+				"break2"
+			],
+			[
+				"time",
+				"timeSuffix"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"is",
+				"isHourValid"
+			],
+			[
+				"su",
+				"timeSuffix"
+			],
+			[
+				"Cm",
+				"CMKOneHub__OwnerId__c"
+			],
+			[
+				"_ge",
+				"_genStatusHtml"
+			],
+			[
+				"tra",
+				"translate3d()"
+			],
+			[
+				"can",
+				"canSelectAll"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ust",
+				"justify-content"
+			],
+			[
+				"hi",
+				"_hideSpinner"
+			],
+			[
+				"_rec",
+				"_recalculateDatePicker"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"isMU",
+				"isMultipleSelect"
+			],
+			[
+				"_re",
+				"_recalculateDatePickerWithoutValue"
+			],
+			[
+				"_ca",
+				"_caculateTdClass"
+			],
+			[
+				"date",
+				"dateOneForRow4"
+			],
+			[
+				"MONTH",
+				"MONTH_LASTDATE"
+			],
+			[
+				"_initY",
+				"_initYearSelectionAndToday"
+			],
+			[
+				"_cal",
+				"_calculateRow4"
+			],
+			[
+				"_ini",
+				"_initToday"
+			],
+			[
+				"Rem",
+				"removeProjectLocation"
+			],
+			[
+				"spin",
+				"spinners"
+			],
+			[
+				"rem",
+				"removeProjectLocation"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"get",
+				"PUBLIC getStackTraceString() \tString"
+			],
+			[
+				"check",
+				"checkStringValueRequired"
+			],
+			[
+				"AP",
+				"AppSettings"
+			],
+			[
+				"_is",
+				"_isInterestedErrorAppEvent"
+			],
+			[
+				"_init",
+				"_initLocations"
+			],
+			[
+				"Add",
+				"AddProjectLocations"
+			],
+			[
+				"rou",
+				"Routes"
+			],
+			[
+				"fil",
+				"filterLocations"
+			],
+			[
+				"cre",
+				"CreateJobs"
+			],
+			[
+				"ca",
+				"calculateServiceWorkers"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"SU",
+				"SUPPORTED_METHODS"
+			],
+			[
+				"In",
+				"Integer\t[Standard Apex Class]"
+			],
+			[
+				"Aura",
+				"AuraHandledException"
+			],
+			[
+				"Au",
+				"AuraHandledException"
+			],
+			[
+				"_rend",
+				"_renderFilter"
+			],
+			[
+				"_ren",
+				"_renderLocations"
+			],
+			[
+				"Fil",
+				"FilterProjectLocations"
+			],
+			[
+				"Fi",
+				"FilterProjectLocations"
+			],
+			[
+				"_res",
+				"_resetCheckbox"
+			],
+			[
+				"Sear",
+				"SearchKeyword"
+			],
+			[
+				"checkon",
+				"checkOneEvent"
+			],
+			[
+				"sear",
+				"SearchKeyword"
+			],
+			[
+				"me",
+				"Methods"
+			],
+			[
+				"searchKey",
+				"searchProjectLoctionsByKeyword"
+			],
+			[
+				"Re",
+				"RemoteActionRequest"
+			],
+			[
+				"P",
+				"PASTE_LIST"
+			],
+			[
+				"da",
+				"dialogDefinition"
+			],
+			[
+				"dial",
+				"dialogDefinition"
+			],
+			[
+				"_",
+				"_sanitizeConfiguration"
+			],
+			[
+				"NO",
+				"NOTIFICATION_ERROR"
+			],
+			[
+				"event",
+				"eventId"
+			],
+			[
+				"even",
+				"eventId"
+			],
+			[
+				"ev",
+				"eventId"
+			],
+			[
+				"Su",
+				"SUCCESS_EVENT"
+			],
+			[
+				"s",
+				"SimpleComponentEvent"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"layou",
+				"layoutItem"
+			],
+			[
+				"layo",
+				"layoutItem"
+			],
+			[
+				"lgn",
+				"lightning"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"slds-text",
+				"slds-text-align--center"
+			],
+			[
+				"servci",
+				"serviceWithoutTargets"
+			],
+			[
+				"Format",
+				"formatNumberString"
+			],
+			[
+				"Not",
+				"notCancelledJobCount"
+			],
+			[
+				"Question",
+				"QuestionRecord"
+			],
+			[
+				"format",
+				"formatNumber"
+			],
+			[
+				"createtest",
+				"createTestJobCompletionSet"
+			],
+			[
+				"Quest",
+				"QuestionRecord"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/aura/rst_pivotal_table/rst_pivotal_tableHelper.js",
+			"settings":
+			{
+				"buffer_size": 4119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/aura/rst_pivotal_table/rst_pivotal_table.css",
+			"settings":
+			{
+				"buffer_size": 1252,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/aura/rst_pivotal_table/rst_pivotal_table.cmp",
+			"settings":
+			{
+				"buffer_size": 1992,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "term",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 612.0
+	},
+	"console":
+	{
+		"height": 585.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/aura"
+	],
+	"file_history":
+	[
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/aura/rst_pivotal_demo/rst_pivotal_demoHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/aura/rst_pivotal_table/rst_pivotal_table.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/aura/rst_pivotal_demo/rst_pivotal_demo.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/aura/rst_pivotal_table/rst_pivotal_table.css",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/aura/rst_pivotal_table/rst_pivotal_tableController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/aura/rst_pivotal_demo/rst_pivotal_demoController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/PivotalTable/src/package.xml",
+		"/home/davidzhao/Downloads/z.java",
+		"/home/davidzhao/zyz/salesforce/workspace/qua_unmanaged/src/classes/CONSTANTS.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/UIConfigManager/UIConfigManager.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/Remotable/RemotableHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectTriggerHandler.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectActionsHelper.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/LightningProjectAuditHistoryController.cls",
+		"/home/davidzhao/zyz/salesforce/force/b2b.sql",
+		"/home/davidzhao/zyz/salesforce/force/q.sh",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectLocations.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectLocations/ProjectLocationsController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectLocationsScheduleLocations/ProjectLocationsScheduleLocations.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectLocations/ProjectLocations.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectLocations/ProjectLocationsHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/RemoteActionGateway/RemoteActionGateway.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectLocationActionsHelper.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/AppUtil.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/BatchProcessApexJobs.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobActionsHelper.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/LightningRequestBase.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ActionResponse.cls",
+		"/home/davidzhao/zyz/salesforce/force/scripts/secure_remove_location.cls",
+		"/home/davidzhao/zyz/salesforce/force/scripts/secure_job_import.cls",
+		"/home/davidzhao/zyz/salesforce/force/scripts/secure_import_location.cls",
+		"/home/davidzhao/zyz/salesforce/force/scripts/secure_set_schedule.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/BatchManageImportAttachments.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectImportRequestService.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobImportRequestService.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/LocationImportRequestService.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectLocationScheduleBulkUpdateModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/DatePicker/DatePickerHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectLocationsBulkSchedule/ProjectLocationsBulkSchedule.cmp",
+		"/home/davidzhao/zyz/salesforce/force/scripts/secure_projectlocation_import_location.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectDetails/ProjectDetailsController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectJobs/ProjectJobs.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectDetails/ProjectDetails.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectDetails/ProjectDetailsHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectJobs/ProjectJobsHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectLayoutSansTimeLineAndHeader/ProjectLayoutSansTimeLineAndHeader.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectServiceInstructions/ProjectServiceInstructionsHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/Notification/Notification.cmp",
+		"/home/davidzhao/projects/flow/src/z.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/Notification/Notification.cmp-meta.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/Notification/NotificationHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectServiceInstructions/ProjectServiceInstructionsController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/LightningGatewayController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/LightningActionResponse.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/LightningProjectServiceController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectServiceInstructions/ProjectServiceInstructions.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectAccounts/ProjectAccountsController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectAccounts/ProjectAccountsHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectAccountModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/UIConfig.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectAccountsCard/ProjectAccountsCard.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectAccountsCard/ProjectAccountsCardController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectAccountsCard/ProjectAccountsCardHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectAccounts/ProjectAccounts.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/LightningProjectAccountsController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjServiceWrapper.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/UISecurity/UISecurity.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/UISecurity/UISecurityHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/Remotable/Remotable.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobTriggerHandlerTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectServiceInstructions/ProjectServiceInstructionsRenderer.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectServiceInstructions/ProjectServiceInstructions.cmp-meta.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/strike_lookup/strike_lookupController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/strike_lookup/strike_lookup.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobAttemptTriggerHandlerTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/TestDataUtil.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/TestUtil.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/CreateProjectFromOpportunity/CreateProjectFromOpportunityController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/Spinner/Spinner.css",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/Spinner/Spinner.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/DataTable/DataTable.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/DataTable/DataTableHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/DataTable/DataTable.css",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/DataTable/DataTableRenderer.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/DataTable/DataTableController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectLocationsSearchLocations/ProjectLocationsSearchLocations.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectCounts/ProjectCounts.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectCounts/ProjectCountsController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectCard/ProjectCardController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectCard/ProjectCard.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectCard/ProjectCardHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectCards/ProjectCards.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ImportRequestController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/CONSTANTS.cls",
+		"/home/davidzhao/zyz/salesforce/force/scripts/b2b.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectServiceTriggerHandler.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/package.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/pages/ProjectManagement.page",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/pages/MySchedule.page",
+		"/home/davidzhao/zyz/salesforce/workspace/david@onehubdavid.dev/src/package.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectServiceJobUpdater.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectAccountTriggerHandlerTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectAccountTriggerHandler.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/TestProject.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectServiceTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/FieldsetGetter.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/FieldsetGetterTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/BuikImportTest.cls",
+		"/home/davidzhao/Downloads/z.json",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ProjectAccountModelTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/AccountWrapper.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/CustomException.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/FieldSetQueryBuilder.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/BulkImporter/BulkImporter.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/BulkImporter/BulkImporterController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/IImportRequestService.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobAttemptTriggerAfterUpdateHandler.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobAttemptTriggerBeforeUpdateHandler.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobCSVController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobImportRequest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobCSVModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/CONSTANTS.cls-meta.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/BulkImporter/BulkImporterHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/ProjectImportJobs/ProjectImportJobs.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/ImportRequestModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/DemoTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/QueryUtil.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/aura/UXContainer/UXContainer.cmp"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 224.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"lstcustomattibutes",
+			".container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"customAttributeMappings",
+			".THIS .container"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/aura/rst_pivotal_table/rst_pivotal_tableHelper.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3608,
+								3608
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/aura/rst_pivotal_table/rst_pivotal_table.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/aura/rst_pivotal_table/rst_pivotal_table.cmp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 95.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 210.0
+	},
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PivotalTable.sublime-project",
+	"replace":
+	{
+		"height": 132.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

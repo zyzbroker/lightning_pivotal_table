@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>rst_pivotal_table</members>
+		<members>rst_pivotal_demo</members>
+		<members>rst_click_event</members>
+		<name>AuraDefinitionBundle</name>
+	</types>
+	<types>
+		<members>fontawesome</members>
+		<name>StaticResource</name>
+	</types>
+	<version>36.0</version>
+</Package>

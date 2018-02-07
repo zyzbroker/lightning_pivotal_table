@@ -1,0 +1,17 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global">
+    <aura:attribute name="data" type="List"/>
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    <aura:handler name="cellClickEvent" event="c:rst_click_event" action="{! c.onCellClick}" />
+    <div class="rst-container">        
+        <c:rst_pivotal_table aura:id="pivotalTable"
+            data="{!v.data}"
+            title="Opportunity Security Settings"
+            columnField="stage"
+            rowField="action"
+            rowLabel="Action"
+            valueField="value"
+            valueUiType = 'checkbox'
+            valueClickable = 'false'
+            />
+    </div>
+</aura:component>

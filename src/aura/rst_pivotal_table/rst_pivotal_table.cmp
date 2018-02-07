@@ -1,0 +1,34 @@
+<aura:component >
+     <ltng:require styles="{! $Resource.fontawesome + '/css/font-awesome.min.css' }"/>        
+    <aura:attribute name="data" type="List" required="true" />
+    <aura:attribute name="layout" type="string" default="table" description="table, chart" />
+    <aura:attribute name="columnField" type="string" required="true" />
+    <aura:attribute name="rowField" type="string" required="true" />
+    <aura:attribute name="rowLabel" type="string" default=""/>
+    <aura:attribute name="valueField" type="string" required="true" />
+    <aura:attribute name="valueClickable" type="boolean" default="false"/>
+    <aura:attribute name="valueUiType" type="string" default="text" description="text, checkbox"/> 
+    <aura:attribute name="title" type="string" default="Pivotal Table" />
+    <aura:attribute name="columns" type="List" access="private" />
+    <aura:attribute name="rows" type="Object" access="private" />
+    <aura:registerEvent name="cellClickEvent" type="c:rst_click_event"/>   
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}" />
+    <aura:handler name="change" value="{!v.rows}" action="{! c.onRowChanged }"/>
+    <aura:handler name="change" value="{!v.data}" action="{! c.onDataChanged }"/>
+    <div class="container">
+        <div class="header flex-box">
+            <div class="flex-item title">Setting Is Important</div>
+            <div class="flex-item shrinked wt200">
+                <aura:if isTrue="{! v.layout == 'table'}">
+                    <button class="slds-button slds-button_icon slds-button_icon-border-filled"><i class="fa fa-bar-chart"></i></button>
+                    <aura:set attribute="else">
+                        <button class="slds-button slds-button_icon slds-button_icon-border-filled"><i class="fa fa-table"></i></button>
+                    </aura:set>
+                </aura:if>
+            </div>
+        </div>
+        <div onclick="{!c.onSelect}">            
+            <aura:unescapedHtml aura:id="html"></aura:unescapedHtml>
+        </div>        
+    </div>
+</aura:component>
